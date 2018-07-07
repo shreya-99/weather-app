@@ -5,7 +5,7 @@ import org.json.JSONObject;
 
 public class WeatherDataModel {
 
-    // TODO: Declare the member variables here
+
    private   String mTemperature;
     private int mCondition;
     private String mCity;
